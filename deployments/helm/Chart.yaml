@@ -1,0 +1,6 @@
+apiVersion: v2
+name: ride-sharing
+description: A Helm chart for deploying the ride-sharing platform
+type: application
+version: 1.0.0
+appVersion: 1.0.0

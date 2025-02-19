@@ -1,0 +1,8 @@
+{
+  "name": "driver-service",
+  "version": "1.0.0",
+  "main": "src/driverController.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
